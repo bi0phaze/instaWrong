@@ -1,0 +1,1 @@
+console.error("Error: Parsing file /Users/juanarbelaez/Desktop/frameworks/main.js: Unexpected token (32:0)");

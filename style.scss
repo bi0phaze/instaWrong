@@ -1,0 +1,37 @@
+body {
+  background: #f5f5f5;
+}
+  h1{
+    text-align: center;
+    margin-top: 4%;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px gray;
+  }
+
+button {
+  height: 37px;
+width: 10%;
+font-size: 17px;
+margin-left: 44%;
+}
+
+div {
+  height:250px;
+  width: 250px;
+  border: gray 2px dashed;
+  display: inline-block;
+  margin-left: 13%;
+  margin-top: 7%;
+}
+
+div:hover {
+  border: red 2px solid;
+}
+
+input {
+width: 400px;
+height: 30px;
+margin-left: 37%;
+margin-top: 2%;
+font-size: 20px;
+}
